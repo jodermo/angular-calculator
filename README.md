@@ -1,12 +1,12 @@
 # AngularCalculator
 ## Basic calculator component for Angular
 
-![preview image](calculator_preview.jpg?raw=true "Preview")
-
  © 2019 - Moritz Petzka - <a href="https://petzka.com" target="_blank">petzka.com</a><br>
  <a href="mailto:info@petzka.com">info@petzka.com</a><br>
 
 ### Demo:  <a href="http://calculator.petzka.com" target="_blank">calculator.petzka.com</a>
+
+![preview image](calculator_preview.jpg?raw=true "Preview")
 
 minimum options:<br>
 `<app-calculator></app-calculator>`
