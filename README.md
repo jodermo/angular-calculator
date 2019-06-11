@@ -1,6 +1,5 @@
 # AngularCalculator
-## Basic calculator component for Angular
-
+## Basic calculator component for Angular (+ keyboard input control)
  © 2019 - Moritz Petzka - <a href="https://petzka.com" target="_blank">petzka.com</a><br>
  <a href="mailto:info@petzka.com">info@petzka.com</a><br>
 
