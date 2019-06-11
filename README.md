@@ -1,15 +1,10 @@
 # AngularCalculator
+## Basic calculator component for Angular
 
  © 2019 - Moritz Petzka - <a href="https://petzka.com" target="_blank">petzka.com</a><br>
  <a href="mailto:info@petzka.com">info@petzka.com</a><br>
 
-Demo:  <a href="http://calculator.petzka.com" target="_blank">calculator.petzka.com</a>
-
-
-### Basic calculator component for Angular
-
-component path:<br>
-`src/app/calculator/..`
+### Demo:  <a href="http://calculator.petzka.com" target="_blank">calculator.petzka.com</a>
 
 minimum options:<br>
 `<app-calculator></app-calculator>`
@@ -32,8 +27,9 @@ callback data `($event)`:<br>
   `operators: [all calculation operators as array],`<br>
   `history: [calculation history as array] `<br>
    `}`
-
-
+   
+component path:<br>
+`src/app/calculator/..`
 
 
 
